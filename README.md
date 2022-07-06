@@ -1,2 +1,2 @@
 # objectsInImage
-Simple python AI script that detecs objects on image.
+Simple python AI script that counts objects in image
